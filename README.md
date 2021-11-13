@@ -1,6 +1,6 @@
 # command-line-tool
 
-Demo command line tool written in rust, reads and writes new files by replacing the existing string.
+Demo command line tool written in rust, reads and writes new files by replacing the existing content.
 
 ## use
 
